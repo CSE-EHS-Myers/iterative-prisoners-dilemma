@@ -75,7 +75,7 @@ def play_round(player1, player2, history1, history2, score1, score2):
                 # both players betray; get punishment   
                 new_score1 = score1 + PUNISHMENT
                 new_score2 = score2 + PUNISHMENT
-                    
+Carl is the bomb diggity.                    
     #send back the updated histories and scores
     return (new_history1, new_history2, new_score1, new_score2)
    
