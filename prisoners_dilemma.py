@@ -48,7 +48,7 @@ def play_round(player1, player2, history1, history2, score1, score2):
     #Append the actions to the previous histories, to return
     new_history1 = history1 + action1
     new_history2 = history2 + action2
-    
+    #The new histories is a combination of the actions taken and the previous histories
     #Change scores based upon player actions
     if action1 not in ('c','b') or action2 not in ('c','b'):
     # Do nothing if someone's code returns an improper action
