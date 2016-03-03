@@ -1,5 +1,5 @@
 from __future__ import print_function
-
+"Hey Mr. Myers (DaBombDiggity)"
 ''' 
 Woah
 PrisonerDilemma.py allows hard-coding different strategies
